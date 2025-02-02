@@ -1,0 +1,7 @@
+transformers
+trl
+datasets
+hf-transfer
+deepspeed
+vllm
+huggingface_hub
