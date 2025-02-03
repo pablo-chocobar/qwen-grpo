@@ -38,7 +38,7 @@ logging_steps: 2
 report_to:
 - tensorboard
 save_strategy: "steps"
-save_steps: 1
+save_steps: 50
 seed: 42
 
 # Hugging Face Hub 
